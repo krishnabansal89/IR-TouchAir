@@ -16,6 +16,11 @@ Welcome to my Gesture-Controlled PC Movements project! 🚀 This project allows 
 
 Have you ever imagined controlling your computer with just a wave of your hand? This project makes that dream a reality by utilizing infrared sensors to detect your finger movements and translating them into various PC actions like scrolling, swiping, and more.
 
+## Demo
+
+For Full video , Refer to my Linkedin Post
+https://www.linkedin.com/posts/krishna-bansal-a82a68254_arduinomagic-innovationinaction-electronicsjourney-activity-7095047065143013377-_6SD?utm_source=share&utm_medium=member_desktop
+
 ## Features
 
 - Gesture recognition: Detects finger movements accurately.
